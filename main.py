@@ -8,7 +8,6 @@ print("-" * 100)
 
 event1 = Event('Breakfast', 'Monday')
 event2 = Event('Meeting', 'Friday')
-event2 = Event('Meeting', 'Friday')
 
 event1.add_participant()
 event2.add_participant()
